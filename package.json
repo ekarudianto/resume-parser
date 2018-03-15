@@ -9,7 +9,7 @@
     "prestart": "yarn install --production=false",
     "build": "webpack",
     "serve": "webpack-dev-server",
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --port $PORT",
     "test": "mocha-webpack --webpack-config webpack.config.js --require test/setup.js test/**/*.spec.js test/*.spec.js"
   },
   "devDependencies": {

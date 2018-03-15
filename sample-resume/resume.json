@@ -1,0 +1,72 @@
+{
+  "name": "Eka Rudianto",
+  "address": "Amcorp serviced suites 20-12 Petaling jaya, Selangor, Malaysia",
+  "links": [
+    {
+      "name": "Github",
+      "url": "https://github.com/ekarudianto"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/ekarudianto"
+    },
+    {
+      "name": "Website",
+      "url": "http://ekarudianto.com"
+    }
+  ],
+  "phones": ["+60-149-674-193", "+62-813-211-056-87"],
+  "emails": ["ekarudianto89@gmail.com"],
+  "skills": [
+    {
+      "category": "Languages",
+      "skillset": ["PHP", "Javascript", "CSS", "HTML"]
+    },
+    {
+      "category": "Frameworks",
+      "skillset": ["Angularjs", "Angular Material", "Reactjs", "Expressjs"]
+    }    
+  ],
+  "experiences": [
+    {
+      "company": "BAE Systems Applied Intelligence",
+      "country": "Malaysia",
+      "role": "Software engineer",
+      "isCurrentJob": true,
+      "startDate": 1394894239000,
+      "endDate": 1458052639000,
+      "highlights": [
+        "Started by being a frontend developer contractor, re-hired as a software engineer.",
+        "Develop a web service for online access to the latest ships/units classification details and a wide range of invaluable supporting information.",
+        "Implement component based frontend development using Angularjs.",
+        "Implement TDD intensively."
+      ]
+    },
+    {
+      "company": "Dealservices B.V",
+      "country": "Indonesia",
+      "role": "Frontend developer",
+      "startDate": 1394894239000,
+      "endDate": 1458052639000,
+      "highlights": [
+        "Develop a web service for logistic processes stored in cloud. All players in the logistic network gain access to relevant information shown in real time.",
+        "Use created company libraries to integrate with company products.",
+        "Had responsibilities for creating wireframe and UI components that will be used by company products.",
+        "Develop and maintain sister company product, a cloud messaging and calling platform by developing several web microservices"
+      ]
+    },
+    {
+      "company": "PT Arkamaya",
+      "country": "Indonesia",
+      "role": "Web developer",
+      "startDate": 1394894239000,
+      "endDate": 1458052639000,
+      "highlights": [
+        "Develop e-ticket web service that deployed to client intranet network.",
+        "Develop e-commerce web service that deployed to client intranet network.",
+        "Develop company ERP web based product.",
+        "Develop and maintain company client training system and deployed to client intranet network."
+      ]
+    }
+  ]
+}

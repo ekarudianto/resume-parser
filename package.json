@@ -6,6 +6,7 @@
   "author": "Eka Rudianto",
   "license": "MIT",
   "scripts": {
+    "prestart": "yarn install --production=false",
     "build": "webpack",
     "serve": "webpack-dev-server",
     "start": "webpack-dev-server",

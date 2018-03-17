@@ -29,20 +29,6 @@
   ],
   "experiences": [
     {
-      "company": "BAE Systems Applied Intelligence",
-      "country": "Malaysia",
-      "role": "Software engineer",
-      "isCurrentJob": true,
-      "startDate": 1394894239000,
-      "endDate": 1458052639000,
-      "highlights": [
-        "Started by being a frontend developer contractor, re-hired as a software engineer.",
-        "Develop a web service for online access to the latest ships/units classification details and a wide range of invaluable supporting information.",
-        "Implement component based frontend development using Angularjs.",
-        "Implement TDD intensively."
-      ]
-    },
-    {
       "company": "Dealservices B.V",
       "country": "Indonesia",
       "role": "Frontend developer",
@@ -66,6 +52,17 @@
         "Develop e-commerce web service that deployed to client intranet network.",
         "Develop company ERP web based product.",
         "Develop and maintain company client training system and deployed to client intranet network."
+      ]
+    },
+    {
+      "company": "CV Area Audio",
+      "country": "Indonesia",
+      "role": "Web developer",
+      "startDate": 1394894239000,
+      "endDate": 1458052639000,
+      "highlights": [
+        "Maintain company website",
+        "Put company products add on several media social.",
       ]
     }
   ]
